@@ -194,3 +194,4 @@ The configurable parameters are - symbol1, symbol2, x, n, threshold, stop loss t
 
 **Conclusion:** The addition of a stop-loss mechanism enhances the pairs trading strategy by introducing a risk management component. This mechanism helps mitigate potential losses by automatically closing positions when the z-score moves unexpectedly beyond a specified threshold.
 
+# Trading_Analysis_Strategies
